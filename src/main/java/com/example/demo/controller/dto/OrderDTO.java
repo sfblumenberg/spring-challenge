@@ -1,5 +1,6 @@
 package com.example.demo.controller.dto;
 
+import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.*;
 
 @Getter @Setter @NoArgsConstructor @ToString @AllArgsConstructor
